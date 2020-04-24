@@ -1,0 +1,12 @@
+{
+  "name": "elm-quotes",
+  "version": "1.0.0",
+  "description": "Elm app to display random quotes",
+  "main": "dist/elm.min.js",
+  "repository": "https://github.com/JoshuaHall/elm-quotes.git",
+  "author": "JoshuaHall <joshuahallmail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
